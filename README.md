@@ -1,8 +1,14 @@
+<div align="center">
+
+![DiagramPin Banner](./docs/screenshots/og-image.png)
+
 # 📍 DiagramPin
 
 > **Pin Your Diagram Layouts in Code**
 
 Code-first diagram editor with position locking. Write DBML, Mermaid diagrams. Drag tables, pin positions in code, version control with Git.
+
+</div>
 
 ---
 
